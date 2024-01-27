@@ -31,5 +31,5 @@ This project is a digital implementation of the classic air hockey game using Py
 ## Getting Started
 
 1. Clone the repository:
-   git clone https://github.com/your-username/air-hockey-game.git
+   git clone https://github.com/safi-ullah-445/Python-Projects.git
    cd air-hockey-game
